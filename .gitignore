@@ -1,0 +1,4 @@
+log.txt /*ignore this file*/
+*.log  /* ignore all files that have .log as extension */
+!test.log /* except this file */
+css/* /* ignore all file in this folder */
